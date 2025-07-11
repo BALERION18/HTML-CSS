@@ -1,0 +1,59 @@
+.a{
+  text-align: center;
+}
+
+.b{
+  background-color: rgb(95, 112, 126);
+  text-align: left;
+  padding: 6px;
+  display: flexbox;
+}
+
+.c:hover{
+  background-color: rgb(226, 128, 30);
+  cursor: pointer;
+}
+.d:hover{
+  background-color: rgb(226, 128, 30);
+  cursor: pointer;
+}
+.e:hover:hover{
+  background-color: rgb(226, 128, 30);
+  cursor: pointer;
+}
+.f:hover:hover{
+  background-color: rgb(226, 128, 30);
+  cursor: pointer;
+}
+
+
+.c{
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(34, 32, 30);
+  color: azure;
+  margin-left: 5px;
+}
+.d{
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(34, 32, 30);
+  color: azure;
+  margin-left: 15px;
+}
+.e{
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(34, 32, 30);
+  color: azure;
+  margin-left: 15px;
+
+}
+.f{
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(34, 32, 30);
+  color: azure;
+  margin-left: 15px;
+
+}
